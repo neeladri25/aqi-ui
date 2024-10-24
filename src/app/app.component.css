@@ -130,4 +130,32 @@
   tr:hover {
     background-color: #f1f1f1; 
   }
+
+
+.aqi-box {
+  border: 2px solid #007bff;
+  padding: 15px;
+  margin-top: 10px;
+  background: linear-gradient(135deg, #e0f7fa, #b2ebf2);
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease-in-out;
+}
+
+.aqi-box:hover {
+  transform: scale(1.02);
+}
+
+.aqi-box p {
+  font-size: 1.2em;
+  color: #333;
+  margin: 0;
+}
+
+.aqi-box b {
+  color: #007bff;
+}
+
+
   
