@@ -9,6 +9,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Adding Screenshots
 
 ![image](https://github.com/user-attachments/assets/3abc6f19-0a54-4b0c-bbaf-d0d23ba62014)
-![image](https://github.com/user-attachments/assets/5e991410-746e-4273-8d9a-d41d6261a483)
+![image](https://github.com/user-attachments/assets/3cca6f9e-26ef-44b7-a6f6-04c9fcf41bde)
+
 
 
